@@ -1,1 +1,1 @@
-This is the initial state of the app after feature fixe
+This is the initial state of the app after the first feature
