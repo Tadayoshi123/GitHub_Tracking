@@ -1,1 +1,1 @@
-This is the initial state of the app after the first feature 2
+This is the initial state of the app after release 2
